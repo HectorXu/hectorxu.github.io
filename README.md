@@ -1,3 +1,3 @@
-# hectorxu.github.io
+# Quick link
 
 Page link https://hectorxu.github.io/index.html
