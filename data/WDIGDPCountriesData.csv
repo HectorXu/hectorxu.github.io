@@ -1,0 +1,611 @@
+Year,GDP,Country
+1960,40,Canada
+1961,40,Canada
+1962,42,Canada
+1963,45,Canada
+1964,49,Canada
+1965,54,Canada
+1966,61,Canada
+1967,65,Canada
+1968,71,Canada
+1969,79,Canada
+1970,87,Canada
+1971,99,Canada
+1972,113,Canada
+1973,131,Canada
+1974,160,Canada
+1975,173,Canada
+1976,206,Canada
+1977,211,Canada
+1978,218,Canada
+1979,243,Canada
+1980,273,Canada
+1981,306,Canada
+1982,313,Canada
+1983,340,Canada
+1984,355,Canada
+1985,364,Canada
+1986,377,Canada
+1987,431,Canada
+1988,507,Canada
+1989,565,Canada
+1990,593,Canada
+1991,610,Canada
+1992,592,Canada
+1993,577,Canada
+1994,578,Canada
+1995,604,Canada
+1996,628,Canada
+1997,654,Canada
+1998,634,Canada
+1999,678,Canada
+2000,744,Canada
+2001,738,Canada
+2002,760,Canada
+2003,895,Canada
+2004,1026,Canada
+2005,1173,Canada
+2006,1319,Canada
+2007,1468,Canada
+2008,1552,Canada
+2009,1374,Canada
+2010,1617,Canada
+2011,1793,Canada
+2012,1828,Canada
+2013,1846,Canada
+2014,1805,Canada
+2015,1556,Canada
+2016,1527,Canada
+2017,1649,Canada
+2018,1725,Canada
+2019,1742,Canada
+2020,1645,Canada
+2021,1990,Canada
+1960,59,China
+1961,50,China
+1962,47,China
+1963,50,China
+1964,59,China
+1965,70,China
+1966,76,China
+1967,72,China
+1968,70,China
+1969,79,China
+1970,92,China
+1971,99,China
+1972,113,China
+1973,138,China
+1974,144,China
+1975,163,China
+1976,153,China
+1977,174,China
+1978,149,China
+1979,178,China
+1980,191,China
+1981,195,China
+1982,205,China
+1983,230,China
+1984,259,China
+1985,309,China
+1986,300,China
+1987,272,China
+1988,312,China
+1989,347,China
+1990,360,China
+1991,383,China
+1992,426,China
+1993,444,China
+1994,564,China
+1995,734,China
+1996,863,China
+1997,961,China
+1998,1029,China
+1999,1093,China
+2000,1211,China
+2001,1339,China
+2002,1470,China
+2003,1660,China
+2004,1955,China
+2005,2285,China
+2006,2752,China
+2007,3550,China
+2008,4594,China
+2009,5101,China
+2010,6087,China
+2011,7551,China
+2012,8532,China
+2013,9570,China
+2014,10475,China
+2015,11061,China
+2016,11233,China
+2017,12310,China
+2018,13894,China
+2019,14279,China
+2020,14687,China
+2021,17734,China
+1960,62,France
+1961,67,France
+1962,75,France
+1963,84,France
+1964,94,France
+1965,101,France
+1966,110,France
+1967,118,France
+1968,129,France
+1969,141,France
+1970,148,France
+1971,165,France
+1972,203,France
+1973,264,France
+1974,285,France
+1975,360,France
+1976,372,France
+1977,410,France
+1978,506,France
+1979,613,France
+1980,701,France
+1981,615,France
+1982,584,France
+1983,559,France
+1984,530,France
+1985,553,France
+1986,771,France
+1987,934,France
+1988,1018,France
+1989,1025,France
+1990,1269,France
+1991,1269,France
+1992,1401,France
+1993,1322,France
+1994,1393,France
+1995,1601,France
+1996,1605,France
+1997,1452,France
+1998,1503,France
+1999,1493,France
+2000,1365,France
+2001,1377,France
+2002,1501,France
+2003,1844,France
+2004,2119,France
+2005,2196,France
+2006,2320,France
+2007,2660,France
+2008,2930,France
+2009,2700,France
+2010,2645,France
+2011,2865,France
+2012,2683,France
+2013,2811,France
+2014,2855,France
+2015,2439,France
+2016,2472,France
+2017,2595,France
+2018,2790,France
+2019,2728,France
+2020,2630,France
+2021,2937,France
+1970,215,Germany
+1971,249,Germany
+1972,299,Germany
+1973,398,Germany
+1974,445,Germany
+1975,490,Germany
+1976,519,Germany
+1977,600,Germany
+1978,740,Germany
+1979,881,Germany
+1980,950,Germany
+1981,800,Germany
+1982,776,Germany
+1983,770,Germany
+1984,725,Germany
+1985,732,Germany
+1986,1046,Germany
+1987,1298,Germany
+1988,1401,Germany
+1989,1398,Germany
+1990,1771,Germany
+1991,1868,Germany
+1992,2131,Germany
+1993,2071,Germany
+1994,2205,Germany
+1995,2585,Germany
+1996,2497,Germany
+1997,2211,Germany
+1998,2238,Germany
+1999,2194,Germany
+2000,1947,Germany
+2001,1945,Germany
+2002,2078,Germany
+2003,2501,Germany
+2004,2814,Germany
+2005,2846,Germany
+2006,2994,Germany
+2007,3425,Germany
+2008,3745,Germany
+2009,3411,Germany
+2010,3399,Germany
+2011,3749,Germany
+2012,3527,Germany
+2013,3733,Germany
+2014,3889,Germany
+2015,3357,Germany
+2016,3469,Germany
+2017,3690,Germany
+2018,3977,Germany
+2019,3888,Germany
+2020,3846,Germany
+2021,4223,Germany
+1960,37,India
+1961,39,India
+1962,42,India
+1963,48,India
+1964,56,India
+1965,59,India
+1966,45,India
+1967,50,India
+1968,53,India
+1969,58,India
+1970,62,India
+1971,67,India
+1972,71,India
+1973,85,India
+1974,99,India
+1975,98,India
+1976,102,India
+1977,121,India
+1978,137,India
+1979,152,India
+1980,186,India
+1981,193,India
+1982,200,India
+1983,218,India
+1984,212,India
+1985,232,India
+1986,248,India
+1987,279,India
+1988,296,India
+1989,296,India
+1990,320,India
+1991,270,India
+1992,288,India
+1993,279,India
+1994,327,India
+1995,360,India
+1996,392,India
+1997,415,India
+1998,421,India
+1999,458,India
+2000,468,India
+2001,485,India
+2002,514,India
+2003,607,India
+2004,709,India
+2005,820,India
+2006,940,India
+2007,1216,India
+2008,1198,India
+2009,1341,India
+2010,1675,India
+2011,1823,India
+2012,1827,India
+2013,1856,India
+2014,2039,India
+2015,2103,India
+2016,2294,India
+2017,2651,India
+2018,2702,India
+2019,2831,India
+2020,2667,India
+2021,3173,India
+1960,40,Italy
+1961,44,Italy
+1962,50,Italy
+1963,57,Italy
+1964,63,Italy
+1965,67,Italy
+1966,73,Italy
+1967,81,Italy
+1968,87,Italy
+1969,97,Italy
+1970,113,Italy
+1971,124,Italy
+1972,145,Italy
+1973,175,Italy
+1974,199,Italy
+1975,227,Italy
+1976,224,Italy
+1977,257,Italy
+1978,315,Italy
+1979,393,Italy
+1980,477,Italy
+1981,430,Italy
+1982,427,Italy
+1983,443,Italy
+1984,437,Italy
+1985,452,Italy
+1986,640,Italy
+1987,805,Italy
+1988,891,Italy
+1989,928,Italy
+1990,1181,Italy
+1991,1246,Italy
+1992,1320,Italy
+1993,1064,Italy
+1994,1099,Italy
+1995,1174,Italy
+1996,1312,Italy
+1997,1241,Italy
+1998,1270,Italy
+1999,1252,Italy
+2000,1146,Italy
+2001,1168,Italy
+2002,1276,Italy
+2003,1577,Italy
+2004,1806,Italy
+2005,1858,Italy
+2006,1949,Italy
+2007,2213,Italy
+2008,2408,Italy
+2009,2199,Italy
+2010,2136,Italy
+2011,2294,Italy
+2012,2086,Italy
+2013,2141,Italy
+2014,2162,Italy
+2015,1836,Italy
+2016,1877,Italy
+2017,1961,Italy
+2018,2091,Italy
+2019,2011,Italy
+2020,1892,Italy
+2021,2099,Italy
+1960,44,Japan
+1961,53,Japan
+1962,60,Japan
+1963,69,Japan
+1964,81,Japan
+1965,90,Japan
+1966,105,Japan
+1967,123,Japan
+1968,146,Japan
+1969,172,Japan
+1970,212,Japan
+1971,240,Japan
+1972,318,Japan
+1973,432,Japan
+1974,479,Japan
+1975,521,Japan
+1976,586,Japan
+1977,721,Japan
+1978,1013,Japan
+1979,1055,Japan
+1980,1105,Japan
+1981,1218,Japan
+1982,1134,Japan
+1983,1243,Japan
+1984,1318,Japan
+1985,1398,Japan
+1986,2078,Japan
+1987,2532,Japan
+1988,3071,Japan
+1989,3054,Japan
+1990,3132,Japan
+1991,3584,Japan
+1992,3908,Japan
+1993,4454,Japan
+1994,4998,Japan
+1995,5545,Japan
+1996,4923,Japan
+1997,4492,Japan
+1998,4098,Japan
+1999,4635,Japan
+2000,4968,Japan
+2001,4374,Japan
+2002,4182,Japan
+2003,4519,Japan
+2004,4893,Japan
+2005,4831,Japan
+2006,4601,Japan
+2007,4579,Japan
+2008,5106,Japan
+2009,5289,Japan
+2010,5759,Japan
+2011,6233,Japan
+2012,6272,Japan
+2013,5212,Japan
+2014,4896,Japan
+2015,4444,Japan
+2016,5003,Japan
+2017,4930,Japan
+2018,5037,Japan
+2019,5123,Japan
+2020,5040,Japan
+2021,4937,Japan
+1960,3,Korea Rep
+1961,2,Korea Rep
+1962,2,Korea Rep
+1963,3,Korea Rep
+1964,3,Korea Rep
+1965,3,Korea Rep
+1966,3,Korea Rep
+1967,4,Korea Rep
+1968,6,Korea Rep
+1969,7,Korea Rep
+1970,9,Korea Rep
+1971,9,Korea Rep
+1972,10,Korea Rep
+1973,13,Korea Rep
+1974,19,Korea Rep
+1975,21,Korea Rep
+1976,29,Korea Rep
+1977,38,Korea Rep
+1978,51,Korea Rep
+1979,66,Korea Rep
+1980,65,Korea Rep
+1981,72,Korea Rep
+1982,78,Korea Rep
+1983,87,Korea Rep
+1984,97,Korea Rep
+1985,101,Korea Rep
+1986,116,Korea Rep
+1987,147,Korea Rep
+1988,199,Korea Rep
+1989,246,Korea Rep
+1990,283,Korea Rep
+1991,330,Korea Rep
+1992,355,Korea Rep
+1993,392,Korea Rep
+1994,463,Korea Rep
+1995,566,Korea Rep
+1996,610,Korea Rep
+1997,569,Korea Rep
+1998,383,Korea Rep
+1999,497,Korea Rep
+2000,576,Korea Rep
+2001,547,Korea Rep
+2002,627,Korea Rep
+2003,702,Korea Rep
+2004,793,Korea Rep
+2005,934,Korea Rep
+2006,1053,Korea Rep
+2007,1172,Korea Rep
+2008,1047,Korea Rep
+2009,943,Korea Rep
+2010,1144,Korea Rep
+2011,1253,Korea Rep
+2012,1278,Korea Rep
+2013,1370,Korea Rep
+2014,1484,Korea Rep
+2015,1465,Korea Rep
+2016,1500,Korea Rep
+2017,1623,Korea Rep
+2018,1724,Korea Rep
+2019,1651,Korea Rep
+2020,1637,Korea Rep
+2021,1798,Korea Rep
+1960,73,United Kingdom
+1961,77,United Kingdom
+1962,81,United Kingdom
+1963,86,United Kingdom
+1964,94,United Kingdom
+1965,101,United Kingdom
+1966,108,United Kingdom
+1967,113,United Kingdom
+1968,107,United Kingdom
+1969,116,United Kingdom
+1970,130,United Kingdom
+1971,148,United Kingdom
+1972,169,United Kingdom
+1973,192,United Kingdom
+1974,206,United Kingdom
+1975,241,United Kingdom
+1976,232,United Kingdom
+1977,263,United Kingdom
+1978,335,United Kingdom
+1979,438,United Kingdom
+1980,564,United Kingdom
+1981,540,United Kingdom
+1982,515,United Kingdom
+1983,489,United Kingdom
+1984,461,United Kingdom
+1985,489,United Kingdom
+1986,601,United Kingdom
+1987,745,United Kingdom
+1988,910,United Kingdom
+1989,926,United Kingdom
+1990,1093,United Kingdom
+1991,1142,United Kingdom
+1992,1179,United Kingdom
+1993,1061,United Kingdom
+1994,1140,United Kingdom
+1995,1346,United Kingdom
+1996,1421,United Kingdom
+1997,1559,United Kingdom
+1998,1653,United Kingdom
+1999,1685,United Kingdom
+2000,1662,United Kingdom
+2001,1643,United Kingdom
+2002,1784,United Kingdom
+2003,2057,United Kingdom
+2004,2421,United Kingdom
+2005,2544,United Kingdom
+2006,2717,United Kingdom
+2007,3106,United Kingdom
+2008,2938,United Kingdom
+2009,2425,United Kingdom
+2010,2491,United Kingdom
+2011,2674,United Kingdom
+2012,2719,United Kingdom
+2013,2803,United Kingdom
+2014,3087,United Kingdom
+2015,2956,United Kingdom
+2016,2722,United Kingdom
+2017,2699,United Kingdom
+2018,2900,United Kingdom
+2019,2878,United Kingdom
+2020,2756,United Kingdom
+2021,3186,United Kingdom
+1960,543,United States
+1961,563,United States
+1962,605,United States
+1963,638,United States
+1964,685,United States
+1965,743,United States
+1966,815,United States
+1967,861,United States
+1968,942,United States
+1969,1019,United States
+1970,1073,United States
+1971,1164,United States
+1972,1279,United States
+1973,1425,United States
+1974,1545,United States
+1975,1684,United States
+1976,1873,United States
+1977,2081,United States
+1978,2351,United States
+1979,2627,United States
+1980,2857,United States
+1981,3207,United States
+1982,3343,United States
+1983,3634,United States
+1984,4037,United States
+1985,4338,United States
+1986,4579,United States
+1987,4855,United States
+1988,5236,United States
+1989,5641,United States
+1990,5963,United States
+1991,6158,United States
+1992,6520,United States
+1993,6858,United States
+1994,7287,United States
+1995,7639,United States
+1996,8073,United States
+1997,8577,United States
+1998,9062,United States
+1999,9631,United States
+2000,10250,United States
+2001,10581,United States
+2002,10929,United States
+2003,11456,United States
+2004,12217,United States
+2005,13039,United States
+2006,13815,United States
+2007,14474,United States
+2008,14769,United States
+2009,14478,United States
+2010,15048,United States
+2011,15599,United States
+2012,16253,United States
+2013,16843,United States
+2014,17550,United States
+2015,18206,United States
+2016,18695,United States
+2017,19479,United States
+2018,20527,United States
+2019,21372,United States
+2020,20893,United States
+2021,22996,United States

@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+
+<body>
+	<header>
+		<title> Narrative Visualization of World Development Indicators GDP </title>
+		<script src="https://d3js.org/d3.v4.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</header>
+	<h1>Narrative Visualization ： GDP Growth of the World</h1>
+	<p><b>Gross domestic product (GDP)</b> is a monetary measure of the market value of all the final goods and services
+		produced in a specific time period by countries. Due to its complex and subjective nature this measure is
+		often revised before being considered a reliable indicator.. -- <a
+			href="https://en.wikipedia.org/wiki/Gross_domestic_product">Wikipedia</a>
+	</p>
+	<p>Let's use the GDP data from <a href="https://databank.worldbank.org/source/world-development-indicators">World
+			Development Indicators Data
+			Bank</a> to look at the development and changes of countries around the world in the past 6 decades. </p>
+	<p> Below graph is GDP growth trend in the world in the past 62 years using current US$. The line graph shows:</p>
+	<ul>
+		<li>x-axis is time line over the past 62 years from 1960 to 2021. </li>
+		<li>y-axis is the total GDP(current US$) as courrent USD of the world.</li>
+	</ul>
+	<svg width=1500 height=500></svg>
+	<p> There are three big financial crisis happened in the past 15 years which impact world GDP growth. The first
+		event is 2008 financial crisis, which cause 2009's GDP dropped form $64,123 billion to $60,809 billion, the impact last
+		about 3 years.
+		The second event is 2014 financial crisis, which cause 2015's GDP dropped from $79,708 billion to $75,179 billion, it also
+		last about 2-3 year to fill the growth gap. The third event is Covid-19, which cause 2020's GDP dropped from
+		$87,652 billion to $84,906 billion,
+		it impact about 1 years and then quickly back to normal GDP growth.We can see that the global impact of each
+		financial crisis is about two years. Overall GDP of the world is keeping growing.</thead>
+	</p>
+	<p> Let's take a look at GPS trend for the top 10 countries based on 2021 GDP by clicking next button.</p>
+	<script src="script/WorldTrendScript.js"></script>
+	<footer>
+		<input type=button id="next" onClick="location.href='Top10CountryTrend.html'" value='Next: Top 10 Countries'>
+	</footer>
+</body>
+
+</html>

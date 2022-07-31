@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+
+<body>
+	<header>
+		<title> Narrative Visualization of World Development Indicators GDP </title>
+		<script src="https://d3js.org/d3.v4.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</header>
+	<h1>Narrative Visualization ：GDP Growth of the Top 10 coutries</h1>
+	<p>The line graph shows the GDP growth trend in the past 62 years using current US$ of the top 10 countries in
+		2021.The top 10 GDP countries in 2021 are Canada, China, France, Germany, India, Italy, Japan, Korea, United
+		Kingdom and United States.</p>
+	<svg width=1500 height=500></svg>
+	<p> Among the top ten countries in terms of global GDP, it can be clearly seen that the United
+		States is far ahead all the way, and Japan has grown significantly in the early 1990s and has remained second in
+		the world. The Asian financial crisis at the end of the last century has caused Japan's GDP to stagnate until
+		now. At the same time, with China's reform and opening up, China's GDP began to maintain rapid growth around
+		2000, rapidly surpassing other countries' GDP. Around 2010, China's GDP surpassed Japan's, ranking second in the
+		world, and gradually approaching the United States. Other countries maintained steady growth, and the GDP of
+		China and the United States far exceeded that of other countries.</p>
+	<p> Let's take a look specifically at the GDP of the China and United States by clicking next button.</p>
+	<script src="script/Top10CountryScript.js"></script>
+	<footer>
+		<input type=button id="prev" onClick="location.href='index.html'" value='Prev: World'>
+		<input type=button id="next" onClick="location.href='USChinaTrend.html'" value='Next: China VS United States'>
+	</footer>
+</body>
+
+</html>

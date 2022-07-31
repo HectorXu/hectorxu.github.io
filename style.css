@@ -1,0 +1,48 @@
+body {
+    font-style: normal;
+	font-weight: 400;
+}
+
+h1, h2, footer {
+	display: flex;
+}
+
+h1, h2 {
+	justify-content: center;
+}
+
+svg {
+	display: block;
+	margin: auto;
+}
+
+footer {
+	justify-content: space-evenly;
+} 
+
+.legend {
+    font-size: 16px;
+    text-anchor: left;
+}
+#prev {
+  background-color: white;
+  border: none;
+  border-style: outset;
+  color: black;
+  padding: 8px 8px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+#next {
+	position: right;
+    margin-right:80px;
+	background-color: white;
+	border: none;
+	border-style: outset;
+	color: black;
+	padding: 8px 8px;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: bold;
+}
